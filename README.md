@@ -2,6 +2,12 @@
 
 An excellent word embedding tool.
 
-Now, it supports following models:
+make clean
+make
+./hypertext
 
-![](D:\DataDoc\deep_learning\神经网络与深度学习实战\微信截图_20181127114731.png)
+The commands supported by hypertext are:
+  skipgram                train a skipgram model
+  cbow                    train a cbow model
+  pmi                     train a pmi model
+  lsa                     train a lsa model
