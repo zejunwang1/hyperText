@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2018-present, Sina, Isda.
+# Copyright (c) 2018-present
 # All rights reserved.
 #
 # This source code is licensed under the BSD-style license found in the
